@@ -5,7 +5,7 @@
       background-size: 400% 400%;
       animation: Gradient 15s ease infinite;
   }
-  @webkit-keyframes Gradient {
+  @-webkit-keyframes Gradient {
       0% {
           background-position: 0% 50%
       }
@@ -18,7 +18,7 @@
   h1 {
       font-weight: lighter;
       font-size: 80px;
-      color: #fff;
+      color: #ff0000;
       text-align: center;
       padding-top: 50px;
       margin-bottom: 0;
@@ -26,7 +26,7 @@
   p {
       color:#fff;
       text-align: center; 
-      font-family: fantasy;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
       font-weight: lighter;
       font-size: 20px;
       margin-top: 0;
