@@ -5,7 +5,7 @@
       background-size: 400% 400%;
       animation: Gradient 15s ease infinite;
   }
-  @-webkit-keyframes Gradient {
+  @webkit-keyframes Gradient {
       0% {
           background-position: 0% 50%
       }
